@@ -7,3 +7,4 @@ Functions
 - Pair brackets ([autopairs](https://github.com/windwp/nvim-autopairs))
 - [Harpoon](https://github.com/ThePrimeagen/harpoon)
 - Colorscheme: [melange](https://github.com/savq/melange-nvim)
+- Html preview server: [LiveServer.nvim](https://github.com/barrett-ruth/live-server.nvim?tab=readme-ov-file)
