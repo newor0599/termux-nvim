@@ -1,8 +1,6 @@
 print("Hi :]")
---require("Packer.treesitter")
 require("remap")
 require("telescope")
---require("Plugins.mini")
 require("Packer.packer")
 require("Plugins.harpoon")
 require("Plugins.nvimtree")
