@@ -1,5 +1,6 @@
 require("remap")
 require("Packer.packer")
+vim.cmd("PackerCompile")
 require("telescope")
 require("Plugins.harpoon")
 require("Plugins.nvimtree")
