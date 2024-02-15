@@ -1,7 +1,6 @@
-print("Hi :]")
 require("remap")
-require("telescope")
 require("Packer.packer")
+require("telescope")
 require("Plugins.harpoon")
 require("Plugins.nvimtree")
 require("Plugins.lualine")

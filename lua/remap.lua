@@ -5,6 +5,7 @@ vim.keymap.set("t","<C-x>","<C-\\><C-n>")
 vim.keymap.set("n","<ESC>","<Cmd>noh<CR>")
 vim.keymap.set("n","L","zL")
 vim.keymap.set("n","H","zH")
+vim.keymap.set("n",";",":")
 
 -- Jump between split window
 vim.keymap.set("n","<C-k>", "<C-w>k")
