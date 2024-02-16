@@ -14,7 +14,6 @@ return require('packer').startup(function(use)
 	use "sainnhe/everforest"
 	use "nvim-lualine/lualine.nvim"
 	use 'crispybaccoon/evergarden'
-	use {"windwp/nvim-autopairs"}
 	use {'stevearc/dressing.nvim'}
 	use "nvimdev/dashboard-nvim"
 	use "nvim-tree/nvim-tree.lua"
@@ -27,5 +26,5 @@ return require('packer').startup(function(use)
 	use {'hrsh7th/vim-vsnip'}
 	use {'rafamadriz/friendly-snippets'}
 	use "barrett-ruth/live-server.nvim"
+	use 'cohama/lexima.vim'
 end)
-
